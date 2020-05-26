@@ -4,5 +4,5 @@
 
 void Hello::print()
 {
-    std::cout << "Hello Headers!" << std::endl;
+    std::cout << "Hello Headers! " << std::endl;
 }
